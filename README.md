@@ -1,3 +1,3 @@
-# Adarsh Solutions React App
+# Adarsh Solutions 
 
-This is a basic React application for Adarsh Solutions.
+application for Adarsh Solutions.
